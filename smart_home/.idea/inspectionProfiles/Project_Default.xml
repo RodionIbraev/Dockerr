@@ -1,0 +1,20 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="phones.models.Phone.objects" />
+          <option value="school.models.Student.objects" />
+          <option value="school.models.Teacher.objects" />
+          <option value="measurement.models.Sensor.object" />
+          <option value="measurement.models.Sensor.objects" />
+          <option value="measurement.models.Sensor.DoesNotExist" />
+          <option value="measurement.models.Measurement.objects" />
+          <option value="students.models.Course.objects" />
+          <option value="tests.students.test_courses_api.model_bakery" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
